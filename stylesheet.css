@@ -12,3 +12,6 @@ p {
 .bg_test {
     background-image: url(ウェブ背景.jpg);
 }
+.bg_test {
+    background-size: contain
+}
