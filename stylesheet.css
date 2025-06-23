@@ -5,14 +5,14 @@ p {
  color: #FFFFFF;
 }
 .bg_test-text {
-    border:  solid 1px;
+    border:  solid 0px;
     display:  inline-block;
-    padding: 10px 20px;
+    padding: 100px 200px;
     background-color: rgba(255, 255, 255, 0.7);
 }
 .bg_test {
     text-align:  center;
-    padding:  150px;
+    padding:  1500px;
     border: solid 2px;
 }
 .bg_test {
