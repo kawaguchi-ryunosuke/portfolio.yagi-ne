@@ -1,9 +1,6 @@
 .title {
   color: #02ccba;
 }
-body {
-  background-image: url(ウェブ背景.jpg);
-}
 p {
  color: #FFFFFF;
 }
@@ -19,5 +16,5 @@ p {
     border: solid 2px;
 }
 .bg_test {
-    background-image: url(test_img.jpg);    /*ウェブ背景.jpg*/
+    background-image: url(ウェブ背景.jpg);
 }
