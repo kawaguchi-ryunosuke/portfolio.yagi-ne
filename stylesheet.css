@@ -11,7 +11,7 @@ p {
 }
 .bg_test {
     background-image: url(ウェブ背景.jpg);
-    background-size: cover;
+    background-size: contain;
 }
 .bg_test-text {
     background-color: #ffffff(255, 255, 255, 0.7);
