@@ -19,5 +19,5 @@ p {
     border: solid 2px;
 }
 .bg_test {
-    background-image: url(test_img.jpg);    /* 背景画像指定 */
+    background-image: url(test_img.jpg);    /*ウェブ背景.jpg*/
 }
