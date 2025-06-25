@@ -28,6 +28,8 @@
 .bg_test {
     text-align: center;
     padding: 250px;
+}
+.bg_test { 
     background-image: url(背景-3.jpg);
     background-size: cover;
     background-position: center;
