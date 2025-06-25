@@ -18,7 +18,10 @@
 .title2 {
   color: #7fffd4;
   text-align: center;
+  border-bottom: solid 4px #7fffd4;
 }
+.h3 {
+  text-align: left;
 .p {
  color: #000000;
 }
