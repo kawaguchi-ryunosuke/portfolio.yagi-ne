@@ -30,7 +30,8 @@
     padding: 600px;
 }
 .bg_test { 
-    background-size: cover;
+  background: #333;  
+  background-size: cover;
     background-color: #fff;
 }
 .bg_test-text {
