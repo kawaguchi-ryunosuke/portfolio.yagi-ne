@@ -30,8 +30,8 @@
     padding: 360px;
 }
 .bg_test { 
-    background-image: url(背景-3.jpg);
     background-size: cover;
+    background-color: #fff;
 }
 .bg_test-text {
     background-color: #ffffff(255, 255, 255, 0.7);
