@@ -14,13 +14,6 @@
 .content{
   margin-top:80px;
 }
-.box{
-  height: 500px;
-  width: 500px;
-  margin: 10px auto;
-  background: #ccc;
-  color: #fff;
-}
 .title {
   color: #02ccba;
   text-align: left;
