@@ -27,12 +27,10 @@
 }
 .bg_test {
     text-align: center;
-    padding: 300px;
-    border: solid 1px;
-}
-.bg_test {
+    padding: 250px;
     background-image: url(背景-3.jpg);
     background-size: cover;
+    background-position: center;
 }
 .bg_test-text {
     background-color: #ffffff(255, 255, 255, 0.7);
