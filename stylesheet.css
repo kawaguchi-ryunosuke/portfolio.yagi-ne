@@ -40,3 +40,6 @@
 .body {
   background: url("背景-3.jpg") center no-repeat;
 }
+.body {
+  margin-top: 20px;
+}
