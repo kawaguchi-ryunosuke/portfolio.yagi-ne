@@ -12,6 +12,9 @@ head{
   color: #fff;
   margin-bottom: 20em;
 }
+html {
+    font-family: "ＭＳ Ｐ明朝";
+}
 .title {
     color: #7fffd4;
     text-align: center;
