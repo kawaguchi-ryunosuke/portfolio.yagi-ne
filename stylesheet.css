@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 .site-header{
   position: fixed;
@@ -10,7 +10,7 @@
   width: 100%;
   padding: 5px;
   background: #333;
-  color: #fff;
+  color: #fff; 
 }
 .title {
   color: #02ccba;
