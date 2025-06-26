@@ -15,9 +15,9 @@ head{
 .title {
     color: #7fffd4;
     text-align: center;
-    margin:2em 0;
+    margin:5em 0;
     position: relative;
-    padding: 20em 1.5em;
+    padding: 2em 1.5em;
     border-top: solid 2px black;
     border-bottom: solid 2px black;
 }
