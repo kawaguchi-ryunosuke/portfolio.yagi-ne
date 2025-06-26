@@ -32,7 +32,7 @@
 .bg_test { 
   background: #333;  
   background-size: cover;
-    background-color: #fff;
+    background-color: #808080;
 }
 .bg_test-text {
     background-color: #ffffff(255, 255, 255, 0.7);
@@ -53,9 +53,9 @@ label {
     margin: 0 0 4px 0;
     padding : 15px;
     line-height: 1;
-    color :#fff;
-    background : green;
-    cursor :pointer;
+    color: #fff;
+    background: green;
+    cursor: pointer;
 }
 
 input {
@@ -65,7 +65,7 @@ input {
 .menu ul {
     margin: 0;
     padding: 0;
-    background :#f4f4f4;
+    background: #f4f4f4;
     list-style: none;
 }
 
