@@ -2,7 +2,7 @@ head{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  margin-bottom: 300px;
+  margin-bottom: 20em;
 }
 .site-header{
   position: fixed;
