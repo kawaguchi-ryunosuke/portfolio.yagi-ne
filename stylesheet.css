@@ -42,7 +42,6 @@ head{
   border-bottom: solid 3px #7fffd4;
 }
 body { 
-  background-image: url("背景-3.jpg");
   background: center no-repeat #808080;
   background-size: cover;
   margin-top: 50px;
