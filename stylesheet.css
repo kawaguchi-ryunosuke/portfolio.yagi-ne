@@ -20,25 +20,21 @@
   text-align: center;
   border-bottom: solid 4px #7fffd4;
 }
-.body {
-  background-image: url("背景-3.jpg") center no-repeat;
-}
-.body {
-  margin-top: 20px;
-}
 .h3 {
   text-align: left;
 .p {
  color: #000000;
 }
 .bg_test {
-    text-align: center;
-    margin-top: 400px;
+  text-align: center;
+  margin-top: 400px;
 }
 .bg_test { 
-  background: #333;  
+  background-image: url("背景-3.jpg");
+  background: center no-repeat #808080;
   background-size: cover;
   background-color: #808080;
+  margin-top: 400px;
 }
 .bg_test-text {
     background-color: #808080(255, 255, 255, 0.7);
