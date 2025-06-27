@@ -51,6 +51,7 @@ h3 {
 } 
 p {
  color: #000000;
+ text-align: center; 
 }
 .bg_test {
   text-align: center;
