@@ -56,11 +56,6 @@ p {
 .bg_test {
   text-align: center;
 }
-.blender {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
 ul {
 			display: flex;
 		}
