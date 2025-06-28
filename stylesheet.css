@@ -12,7 +12,7 @@ head{
   color: #fff;
   margin-bottom: 20em;
 }
-.title {
+.title1 {
     color: #7fffd4;
     text-align: left;
     margin:4.5em 0 0;
@@ -21,7 +21,7 @@ head{
     border-top: solid 2px #7fffd4;
     border-bottom: solid 2px #7fffd4;
 }
-.title:before, .title:after{
+.title1:before, .title:after{
     content: '';
     position: absolute;
     top: -10px;
@@ -30,9 +30,9 @@ head{
     height: calc(100% + 20px);
     background-color: #7fffd4;
 }
-.title:before {left: 10px;}
-.title:after {right: 10px;}
-.title p {
+.title1:before {left: 10px;}
+.title1:after {right: 10px;}
+.title1 p {
     margin: 0; 
     padding: 0;
 }
