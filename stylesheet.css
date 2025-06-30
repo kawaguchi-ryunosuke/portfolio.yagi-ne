@@ -64,12 +64,13 @@ p {
   display: block;
 }
 ul {
-			display: flex;
-		}
-		li {
-			list-style-type: none;
-			text-align: center;
-		}
+	display: flex;
+	text-align: center;
+}
+li {
+	list-style-type: none;
+	text-align: center;
+}
 .title1 {
     color: #7fffd4;
     text-align: center;
