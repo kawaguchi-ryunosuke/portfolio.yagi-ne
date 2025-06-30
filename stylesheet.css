@@ -63,13 +63,14 @@ p {
   margin-right: auto;
   display: block;
 }
+.garaly-img {
+	text-align: center;
+}
 ul {
 	display: flex;
-	text-align: center;
 }
 li {
 	list-style-type: none;
-	text-align: center;
 }
 .title1 {
     color: #7fffd4;
