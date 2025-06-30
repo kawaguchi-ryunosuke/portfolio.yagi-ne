@@ -66,6 +66,7 @@ ul {
 		}
 		li {
 			list-style-type: none;
+			text-align: center;
 		}
 .title1 {
     color: #7fffd4;
