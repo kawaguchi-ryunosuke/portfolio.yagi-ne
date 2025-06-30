@@ -67,8 +67,8 @@ p {
   display: block;
 }
 .garaly-img {
-	text-align: center;
 	display: flex;
+	margin: auto;
 }
 li {
 	list-style-type: none;
