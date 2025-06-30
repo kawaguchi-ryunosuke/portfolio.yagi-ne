@@ -14,11 +14,13 @@ head{
   margin-bottom: 20em;
   z-index: 2;	
 }
+h1 {
+	z-index: 1;
+}
 .title1 {
     color: #7fffd4;
     text-align: left;
-    margin:4.5em 0 0;
-    z-index: 1;	
+    margin:4.5em 0 0;	
     position: relative;
     padding: 0.5em 1.5em;
     border-top: solid 2px #7fffd4;
